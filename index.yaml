@@ -3,12 +3,23 @@ entries:
   my-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-13T15:12:20.715914+08:00"
+    created: "2025-04-13T18:10:03.189865+08:00"
     description: A Helm chart for Kubernetes
     digest: 4322c1a4406b89cfbbfd8295f2090cc670250536c76ec61076ff29ef596139d6
     name: my-chart
     type: application
     urls:
-    - https://goonycui.github.io/my-helm-charts/charts/my-chart-0.1.0.tgz
+    - charts/my-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-13T15:12:20.715545+08:00"
+  spring-simple-app-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-13T18:10:03.190163+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 381cbd79bf715f3de8786c0e08141b510d8dbd4e508cd0010e9d9457e426f14d
+    name: spring-simple-app-chart
+    type: application
+    urls:
+    - charts/spring-simple-app-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-13T18:10:03.189398+08:00"
