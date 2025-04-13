@@ -3,7 +3,7 @@ entries:
   my-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-13T18:10:03.189865+08:00"
+    created: "2025-04-13T18:21:56.793064+08:00"
     description: A Helm chart for Kubernetes
     digest: 4322c1a4406b89cfbbfd8295f2090cc670250536c76ec61076ff29ef596139d6
     name: my-chart
@@ -14,12 +14,12 @@ entries:
   spring-simple-app-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-13T18:10:03.190163+08:00"
+    created: "2025-04-13T18:21:56.793312+08:00"
     description: A Helm chart for Kubernetes
-    digest: 381cbd79bf715f3de8786c0e08141b510d8dbd4e508cd0010e9d9457e426f14d
+    digest: b1dd0c321eb9cfa857cbf6692ef67781137c85d35a6456d52e71b5c4c8a7a711
     name: spring-simple-app-chart
     type: application
     urls:
     - charts/spring-simple-app-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-13T18:10:03.189398+08:00"
+generated: "2025-04-13T18:21:56.791908+08:00"
